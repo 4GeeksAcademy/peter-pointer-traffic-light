@@ -22,8 +22,14 @@
     margin: 10px;
     background: green;
 }
-.glow{
-    box-shadow: 0px 0px 30px 20px #cfcfdd;
+.redGlow{
+    box-shadow: 0px 0px 30px 20px #ff0000;
+}
+.orangeGlow{
+    box-shadow: 0px 0px 30px 20px #fd821d;
+}
+.greenGlow{
+    box-shadow: 0px 0px 30px 20px #06b900;
 }
 .pole {
     background: rgb(0, 0, 0);
